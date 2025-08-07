@@ -15,7 +15,7 @@ The Specialization features a capstone project focused on using Databricks’ AP
 - Develop a deep understanding of key concepts
 - Earn a career certificate from Duke University
 
-## What you'll learn
+## What I learned
 
 - Create scalable big data pipelines (Hadoop, Spark, Snowflake, Databricks) for efficient data handling.
 - Build machine learning workflows (PySpark, MLFlow) on Databricks for seamless model development and deployment.
