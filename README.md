@@ -8,7 +8,7 @@ Applied Learning Project
 
 The Specialization features a capstone project focused on using Databricks’ API to replicate an existing project. This provides hands-on experience working with Databricks to build a portfolio-ready data solution. You will apply Python to a variety of data engineering tasks.
 
-## Advance your subject-matter expertise
+## Advance my subject-matter expertise
 
 - Learn in-demand skills from university and industry experts
 - Master a subject or tool with hands-on projects
