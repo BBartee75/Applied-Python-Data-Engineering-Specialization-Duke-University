@@ -24,4 +24,4 @@ The Specialization features a capstone project focused on using Databricks’ AP
 
 
 ### Student
-[Bently Bartee](www.linkedin.com/in/bbar) - is a Renewables Operational Performance Engineer / Data and Analytics Engineer. Bently has over 15 years of experience in wind turbine systems and 2 year in solar PV systems. His expertise spans data and performance engineering, strategic planning, wind farm management, and project management. He is proficient in programming languages such as Python, SQL, and R, with extensive experience in wind turbine control systems.
+[Bently Bartee](https://www.linkedin.com/in/bbar) - is a Renewables Operational Performance Engineer / Data and Analytics Engineer. Bently has over 15 years of experience in wind turbine systems and 2 year in solar PV systems. His expertise spans data and performance engineering, strategic planning, wind farm management, and project management. He is proficient in programming languages such as Python, SQL, and R, with extensive experience in wind turbine control systems.
