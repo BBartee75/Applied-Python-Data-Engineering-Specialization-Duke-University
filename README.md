@@ -21,3 +21,7 @@ The Specialization features a capstone project focused on using Databricks’ AP
 - Build machine learning workflows (PySpark, MLFlow) on Databricks for seamless model development and deployment.
 - Implement DataOps/DevOps to streamline data engineering processes.
 - Formulate and communicate data-driven insights and narratives through impactful visualizations with Python and data storytelling
+
+
+### Student
+[Bently Bartee](www.linkedin.com/in/bbar) - is a Renewables Operational Performance Engineer / Data and Analytics Engineer. Bently has over 15 years of experience in wind turbine systems and 2 year in solar PV systems. His expertise spans data and performance engineering, strategic planning, wind farm management, and project management. He is proficient in programming languages such as Python, SQL, and R, with extensive experience in wind turbine control systems.
