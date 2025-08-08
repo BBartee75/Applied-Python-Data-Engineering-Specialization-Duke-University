@@ -11,3 +11,5 @@ This course is designed for learners who want to pursue or advance their career 
 - [What is Spark? (AWS)](https://aws.amazon.com/big-data/what-is-spark/)
 - [Spark Cluster Overview (Apache Spark)](https://spark.apache.org/docs/latest/cluster-overview.html)
 - [Use Apache Spark in Azure Databricks](https://learn.microsoft.com/en-us/training/modules/use-apache-spark-azure-databricks/)
+- [Resilient Distributed Datasets (RDDs](https://www.databricks.com/glossary/what-is-rdd)
+- [Apache Spark RDD](https://www.tutorialspoint.com/apache_spark/apache_spark_rdd.htm)
