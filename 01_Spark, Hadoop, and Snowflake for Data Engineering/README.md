@@ -13,3 +13,5 @@ This course is designed for learners who want to pursue or advance their career 
 - [Use Apache Spark in Azure Databricks](https://learn.microsoft.com/en-us/training/modules/use-apache-spark-azure-databricks/)
 - [Resilient Distributed Datasets (RDDs](https://www.databricks.com/glossary/what-is-rdd)
 - [Apache Spark RDD](https://www.tutorialspoint.com/apache_spark/apache_spark_rdd.htm)
+- [Spark SQL Programming Guide](https://spark.apache.org/docs/latest/sql-programming-guide.html)
+- [Spark DataFrames](https://www.databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)
