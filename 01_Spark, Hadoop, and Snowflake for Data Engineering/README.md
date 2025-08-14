@@ -15,3 +15,5 @@ This course is designed for learners who want to pursue or advance their career 
 - [Apache Spark RDD](https://www.tutorialspoint.com/apache_spark/apache_spark_rdd.htm)
 - [Spark SQL Programming Guide](https://spark.apache.org/docs/latest/sql-programming-guide.html)
 - [Spark DataFrames](https://www.databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)
+- [Inside Snowflake (Snowflake User Guide)](https://www.snowflake.com/wp-content/uploads/2014/10/A-Detailed-View-Inside-Snowflake.pdf)
+- [Snowflake Architecture](https://docs.snowflake.com/en/user-guide/intro-key-concepts)
