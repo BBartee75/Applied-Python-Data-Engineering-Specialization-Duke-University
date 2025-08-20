@@ -17,3 +17,4 @@ This course is designed for learners who want to pursue or advance their career 
 - [Spark DataFrames](https://www.databricks.com/blog/2015/02/17/introducing-dataframes-in-spark-for-large-scale-data-science.html)
 - [Inside Snowflake (Snowflake User Guide)](https://www.snowflake.com/wp-content/uploads/2014/10/A-Detailed-View-Inside-Snowflake.pdf)
 - [Snowflake Architecture](https://docs.snowflake.com/en/user-guide/intro-key-concepts)
+- [Snowsight UI Quick Tour (Snowflake User Guide)](https://docs.snowflake.com/en/user-guide/ui-snowsight-quick-tour)
